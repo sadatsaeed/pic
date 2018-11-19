@@ -2,7 +2,7 @@
   "posts": [
     { "id": "Gopi", "title": "Post 1", "firstName": "Sadat", "lastName": "Saeed" },
     { "id": "Sadat", "title": "Post 2", "firstName": "Gopi", "lastName": "Nesrajah", "SIN":"665876432", "City":"Brampton", "DOB":"01011990" },
-    { "id": "Arafath:, "title": "Post 3", "firstName": "Arafath", "lastName": "Ali" }
+    { "id": "Arafath", "title": "Post 3", "firstName": "Arafath", "lastName": "Ali" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
