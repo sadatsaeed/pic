@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Gopi",
+      "LastName": "Nesrajah",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+{
+  "get": [
+    {
+      "id": 1,
+      "firstName": "Gopi",
+      "LastName": "Nesrajah",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
