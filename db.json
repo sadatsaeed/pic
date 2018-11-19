@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": "Gopi", "title": "Post 1", "firstName": "Sadat", "lastName": "Saeed" },
-    { "id": "Sadat", "title": "Post 2", "firstName": "Gopi", "lastName": "Nesrajah", "SIN":"665876432", "City":"Brampton", "DOB":"01011990" },
-    { "id": "Arafath", "title": "Post 3", "firstName": "Arafath", "lastName": "Ali" }
+    { "id": "gopi", "title": "Post 1", "firstName": "Sadat", "lastName": "Saeed", "SIN":"123456789", "City":"Toronto", "DOB":"01051980" },
+    { "id": "sadat", "title": "Post 2", "firstName": "Gopi", "lastName": "Nesrajah", "SIN":"665876432", "City":"Brampton", "DOB":"01011990" },
+    { "id": "arafath", "title": "Post 3", "firstName": "Arafath", "lastName": "Ali", "SIN":"667788990", "City":"Ajax", "DOB":"01011989" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
